@@ -1,0 +1,8 @@
+name "foo"
+description "A simple vibe.d server application."
+authors "doob"
+copyright "Copyright © 2018, doob"
+license "proprietary"
+dependency "vibe-d" version="~>0.8.2"
+
+dflags "-dip1000" "-dip25"
